@@ -7272,6 +7272,10 @@
         {
             "word": "dictionary",
             "attempts": 4
+        },
+        {
+            "word": "leech",
+            "attempts": 6
         }
     ]
 }
