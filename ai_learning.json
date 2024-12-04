@@ -952,6 +952,10 @@
         {
             "word": "rapidamente",
             "attempts": 3
+        },
+        {
+            "word": "laparogastroscopy",
+            "attempts": 2
         }
     ]
 }
