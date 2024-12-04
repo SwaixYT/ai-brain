@@ -3628,6 +3628,10 @@
         {
             "word": "tallageability",
             "attempts": 3
+        },
+        {
+            "word": "predecline",
+            "attempts": 3
         }
     ]
 }
