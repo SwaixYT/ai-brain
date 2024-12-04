@@ -4,6 +4,10 @@
         {
             "word": "choose",
             "attempts": 5
+        },
+        {
+            "word": "choose",
+            "attempts": 8
         }
     ]
 }
