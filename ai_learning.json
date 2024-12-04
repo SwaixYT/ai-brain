@@ -884,6 +884,10 @@
         {
             "word": "souper",
             "attempts": 5
+        },
+        {
+            "word": "rubble",
+            "attempts": 6
         }
     ]
 }
