@@ -6744,6 +6744,10 @@
         {
             "word": "whippets",
             "attempts": 5
+        },
+        {
+            "word": "wurst",
+            "attempts": 7
         }
     ]
 }
