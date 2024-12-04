@@ -3640,6 +3640,10 @@
         {
             "word": "resistivity",
             "attempts": 3
+        },
+        {
+            "word": "haematic",
+            "attempts": 7
         }
     ]
 }
