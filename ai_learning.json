@@ -1612,6 +1612,10 @@
         {
             "word": "samplers",
             "attempts": 4
+        },
+        {
+            "word": "zoonomic",
+            "attempts": 5
         }
     ]
 }
