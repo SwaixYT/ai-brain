@@ -5264,6 +5264,10 @@
         {
             "word": "subabbot",
             "attempts": 5
+        },
+        {
+            "word": "apeman",
+            "attempts": 8
         }
     ]
 }
