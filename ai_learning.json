@@ -2696,6 +2696,10 @@
         {
             "word": "nightime",
             "attempts": 5
+        },
+        {
+            "word": "unmended",
+            "attempts": 5
         }
     ]
 }
