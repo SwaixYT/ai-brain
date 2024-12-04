@@ -6068,6 +6068,10 @@
         {
             "word": "bathroot",
             "attempts": 4
+        },
+        {
+            "word": "parl",
+            "attempts": 3
         }
     ]
 }
