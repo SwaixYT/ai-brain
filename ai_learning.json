@@ -892,6 +892,10 @@
         {
             "word": "rel",
             "attempts": 7
+        },
+        {
+            "word": "premovement",
+            "attempts": 4
         }
     ]
 }
