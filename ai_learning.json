@@ -28,6 +28,10 @@
         {
             "word": "minuends",
             "attempts": 4
+        },
+        {
+            "word": "tetrahedric",
+            "attempts": 4
         }
     ]
 }
