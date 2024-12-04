@@ -848,6 +848,10 @@
         {
             "word": "forequoted",
             "attempts": 4
+        },
+        {
+            "word": "overlightly",
+            "attempts": 3
         }
     ]
 }
