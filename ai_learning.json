@@ -3020,6 +3020,10 @@
         {
             "word": "slims",
             "attempts": 6
+        },
+        {
+            "word": "mountable",
+            "attempts": 4
         }
     ]
 }
