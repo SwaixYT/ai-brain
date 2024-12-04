@@ -276,6 +276,10 @@
         {
             "word": "sifts",
             "attempts": 5
+        },
+        {
+            "word": "haymakers",
+            "attempts": 3
         }
     ]
 }
