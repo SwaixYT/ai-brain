@@ -2576,6 +2576,10 @@
         {
             "word": "kenningwort",
             "attempts": 3
+        },
+        {
+            "word": "tragedianess",
+            "attempts": 3
         }
     ]
 }
