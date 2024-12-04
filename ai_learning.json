@@ -832,6 +832,10 @@
         {
             "word": "animally",
             "attempts": 3
+        },
+        {
+            "word": "carotin",
+            "attempts": 5
         }
     ]
 }
