@@ -5464,6 +5464,10 @@
         {
             "word": "pirate",
             "attempts": 7
+        },
+        {
+            "word": "hesperidate",
+            "attempts": 4
         }
     ]
 }
