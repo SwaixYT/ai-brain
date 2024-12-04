@@ -5060,6 +5060,10 @@
         {
             "word": "settings",
             "attempts": 6
+        },
+        {
+            "word": "leesing",
+            "attempts": 10
         }
     ]
 }
