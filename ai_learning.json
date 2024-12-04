@@ -3660,6 +3660,10 @@
         {
             "word": "emplane",
             "attempts": 5
+        },
+        {
+            "word": "scooter",
+            "attempts": 10
         }
     ]
 }
