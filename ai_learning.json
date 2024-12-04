@@ -2572,6 +2572,10 @@
         {
             "word": "ghassanid",
             "attempts": 4
+        },
+        {
+            "word": "kenningwort",
+            "attempts": 3
         }
     ]
 }
