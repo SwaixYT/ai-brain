@@ -1680,6 +1680,10 @@
         {
             "word": "integer",
             "attempts": 4
+        },
+        {
+            "word": "waddles",
+            "attempts": 10
         }
     ]
 }
