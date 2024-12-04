@@ -868,6 +868,10 @@
         {
             "word": "preshrink",
             "attempts": 5
+        },
+        {
+            "word": "insigne",
+            "attempts": 7
         }
     ]
 }
