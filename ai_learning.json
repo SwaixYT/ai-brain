@@ -3528,6 +3528,10 @@
         {
             "word": "mimbar",
             "attempts": 6
+        },
+        {
+            "word": "adnoun",
+            "attempts": 4
         }
     ]
 }
