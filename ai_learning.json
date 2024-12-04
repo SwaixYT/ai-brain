@@ -5688,6 +5688,10 @@
         {
             "word": "replication",
             "attempts": 4
+        },
+        {
+            "word": "cloisterer",
+            "attempts": 5
         }
     ]
 }
