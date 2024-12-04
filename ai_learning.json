@@ -6852,6 +6852,10 @@
         {
             "word": "undried",
             "attempts": 7
+        },
+        {
+            "word": "minimaxes",
+            "attempts": 6
         }
     ]
 }
