@@ -7172,6 +7172,10 @@
         {
             "word": "predefinitions",
             "attempts": 12
+        },
+        {
+            "word": "chance",
+            "attempts": 4
         }
     ]
 }
