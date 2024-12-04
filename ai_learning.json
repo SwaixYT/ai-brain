@@ -3980,6 +3980,10 @@
         {
             "word": "quixote",
             "attempts": 6
+        },
+        {
+            "word": "supersessive",
+            "attempts": 3
         }
     ]
 }
