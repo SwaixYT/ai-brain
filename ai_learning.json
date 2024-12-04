@@ -736,6 +736,10 @@
         {
             "word": "cabinetmake",
             "attempts": 4
+        },
+        {
+            "word": "hemacytometer",
+            "attempts": 3
         }
     ]
 }
