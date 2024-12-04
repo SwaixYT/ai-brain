@@ -1620,6 +1620,10 @@
         {
             "word": "apinoid",
             "attempts": 5
+        },
+        {
+            "word": "puny",
+            "attempts": 6
         }
     ]
 }
