@@ -1572,6 +1572,10 @@
         {
             "word": "highjacking",
             "attempts": 3
+        },
+        {
+            "word": "sonnets",
+            "attempts": 6
         }
     ]
 }
