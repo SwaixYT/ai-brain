@@ -3664,6 +3664,10 @@
         {
             "word": "scooter",
             "attempts": 10
+        },
+        {
+            "word": "forgetters",
+            "attempts": 4
         }
     ]
 }
