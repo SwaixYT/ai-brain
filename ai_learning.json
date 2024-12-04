@@ -5940,6 +5940,10 @@
         {
             "word": "uncollared",
             "attempts": 4
+        },
+        {
+            "word": "extrovertedness",
+            "attempts": 2
         }
     ]
 }
