@@ -3108,6 +3108,10 @@
         {
             "word": "lynching",
             "attempts": 5
+        },
+        {
+            "word": "towable",
+            "attempts": 6
         }
     ]
 }
