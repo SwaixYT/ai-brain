@@ -4012,6 +4012,10 @@
         {
             "word": "strums",
             "attempts": 4
+        },
+        {
+            "word": "pete",
+            "attempts": 8
         }
     ]
 }
