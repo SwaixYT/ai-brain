@@ -6664,6 +6664,10 @@
         {
             "word": "limp",
             "attempts": 8
+        },
+        {
+            "word": "recomb",
+            "attempts": 4
         }
     ]
 }
