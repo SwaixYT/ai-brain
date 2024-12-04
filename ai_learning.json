@@ -2504,6 +2504,10 @@
         {
             "word": "electret",
             "attempts": 3
+        },
+        {
+            "word": "undraftable",
+            "attempts": 3
         }
     ]
 }
