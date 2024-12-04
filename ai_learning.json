@@ -908,6 +908,10 @@
         {
             "word": "elvis",
             "attempts": 4
+        },
+        {
+            "word": "acinous",
+            "attempts": 5
         }
     ]
 }
