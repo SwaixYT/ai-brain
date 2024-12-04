@@ -6976,6 +6976,10 @@
         {
             "word": "axolotl",
             "attempts": 4
+        },
+        {
+            "word": "aaa",
+            "attempts": 10
         }
     ]
 }
