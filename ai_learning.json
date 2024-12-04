@@ -6980,6 +6980,10 @@
         {
             "word": "aaa",
             "attempts": 10
+        },
+        {
+            "word": "zostera",
+            "attempts": 8
         }
     ]
 }
