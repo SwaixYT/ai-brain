@@ -1276,6 +1276,10 @@
         {
             "word": "unmask",
             "attempts": 3
+        },
+        {
+            "word": "expendible",
+            "attempts": 4
         }
     ]
 }
