@@ -6668,6 +6668,10 @@
         {
             "word": "recomb",
             "attempts": 4
+        },
+        {
+            "word": "waggonload",
+            "attempts": 3
         }
     ]
 }
