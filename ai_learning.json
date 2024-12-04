@@ -628,6 +628,10 @@
         {
             "word": "additionally",
             "attempts": 3
+        },
+        {
+            "word": "pythias",
+            "attempts": 4
         }
     ]
 }
