@@ -448,6 +448,10 @@
         {
             "word": "gadids",
             "attempts": 4
+        },
+        {
+            "word": "sprechstimme",
+            "attempts": 3
         }
     ]
 }
