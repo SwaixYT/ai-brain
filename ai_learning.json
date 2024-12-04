@@ -2388,6 +2388,10 @@
         {
             "word": "biofog",
             "attempts": 4
+        },
+        {
+            "word": "hawkeye",
+            "attempts": 5
         }
     ]
 }
