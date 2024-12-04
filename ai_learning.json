@@ -964,6 +964,10 @@
         {
             "word": "lick",
             "attempts": 10
+        },
+        {
+            "word": "devaunt",
+            "attempts": 4
         }
     ]
 }
