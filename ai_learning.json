@@ -6832,6 +6832,10 @@
         {
             "word": "hyenadog",
             "attempts": 3
+        },
+        {
+            "word": "comma",
+            "attempts": 6
         }
     ]
 }
