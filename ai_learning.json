@@ -3480,6 +3480,10 @@
         {
             "word": "solders",
             "attempts": 3
+        },
+        {
+            "word": "fidos",
+            "attempts": 7
         }
     ]
 }
