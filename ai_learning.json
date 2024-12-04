@@ -3736,6 +3736,10 @@
         {
             "word": "insulators",
             "attempts": 5
+        },
+        {
+            "word": "taming",
+            "attempts": 4
         }
     ]
 }
