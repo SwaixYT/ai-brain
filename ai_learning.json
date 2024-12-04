@@ -7080,6 +7080,10 @@
         {
             "word": "choice",
             "attempts": 5
+        },
+        {
+            "word": "thoughts",
+            "attempts": 0
         }
     ]
 }
