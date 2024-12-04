@@ -2728,6 +2728,10 @@
         {
             "word": "mojarras",
             "attempts": 3
+        },
+        {
+            "word": "consecutive",
+            "attempts": 4
         }
     ]
 }
