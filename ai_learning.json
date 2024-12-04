@@ -2904,6 +2904,10 @@
         {
             "word": "lafayette",
             "attempts": 5
+        },
+        {
+            "word": "soapbox",
+            "attempts": 4
         }
     ]
 }
