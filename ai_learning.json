@@ -6732,6 +6732,10 @@
         {
             "word": "langsettle",
             "attempts": 3
+        },
+        {
+            "word": "bombard",
+            "attempts": 10
         }
     ]
 }
