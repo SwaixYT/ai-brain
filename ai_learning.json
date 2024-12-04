@@ -416,6 +416,10 @@
         {
             "word": "fileted",
             "attempts": 6
+        },
+        {
+            "word": "orientalist",
+            "attempts": 4
         }
     ]
 }
