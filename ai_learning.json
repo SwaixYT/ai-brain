@@ -7224,6 +7224,10 @@
         {
             "word": "chance",
             "attempts": 6
+        },
+        {
+            "word": "chance",
+            "attempts": 1
         }
     ]
 }
