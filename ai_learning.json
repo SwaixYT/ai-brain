@@ -6472,6 +6472,10 @@
         {
             "word": "probands",
             "attempts": 5
+        },
+        {
+            "word": "chorusses",
+            "attempts": 5
         }
     ]
 }
