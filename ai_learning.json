@@ -4368,6 +4368,10 @@
         {
             "word": "repurchase",
             "attempts": 4
+        },
+        {
+            "word": "plagate",
+            "attempts": 10
         }
     ]
 }
