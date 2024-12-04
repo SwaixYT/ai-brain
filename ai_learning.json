@@ -352,6 +352,10 @@
         {
             "word": "diploma",
             "attempts": 3
+        },
+        {
+            "word": "reprover",
+            "attempts": 5
         }
     ]
 }
