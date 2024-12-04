@@ -968,6 +968,10 @@
         {
             "word": "devaunt",
             "attempts": 4
+        },
+        {
+            "word": "misspells",
+            "attempts": 4
         }
     ]
 }
