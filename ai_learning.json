@@ -4308,6 +4308,10 @@
         {
             "word": "balt",
             "attempts": 11
+        },
+        {
+            "word": "nonrepairable",
+            "attempts": 3
         }
     ]
 }
