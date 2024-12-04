@@ -6012,6 +6012,10 @@
         {
             "word": "superthoroughness",
             "attempts": 2
+        },
+        {
+            "word": "getspace",
+            "attempts": 6
         }
     ]
 }
