@@ -4860,6 +4860,10 @@
         {
             "word": "forker",
             "attempts": 5
+        },
+        {
+            "word": "dialysability",
+            "attempts": 4
         }
     ]
 }
