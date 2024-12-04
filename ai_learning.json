@@ -1804,6 +1804,10 @@
         {
             "word": "bedmakers",
             "attempts": 3
+        },
+        {
+            "word": "hackmatack",
+            "attempts": 5
         }
     ]
 }
