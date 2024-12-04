@@ -4716,6 +4716,10 @@
         {
             "word": "nonpatented",
             "attempts": 4
+        },
+        {
+            "word": "kenton",
+            "attempts": 7
         }
     ]
 }
