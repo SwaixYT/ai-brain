@@ -5892,6 +5892,10 @@
         {
             "word": "concealed",
             "attempts": 3
+        },
+        {
+            "word": "toward",
+            "attempts": 5
         }
     ]
 }
