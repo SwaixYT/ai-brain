@@ -7268,6 +7268,10 @@
         {
             "word": "hippopotamus",
             "attempts": 3
+        },
+        {
+            "word": "dictionary",
+            "attempts": 4
         }
     ]
 }
