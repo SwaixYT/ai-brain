@@ -4600,6 +4600,10 @@
         {
             "word": "guaiacol",
             "attempts": 5
+        },
+        {
+            "word": "deprograms",
+            "attempts": 3
         }
     ]
 }
