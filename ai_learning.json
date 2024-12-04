@@ -3456,6 +3456,10 @@
         {
             "word": "polyvinylpyrrolidone",
             "attempts": 2
+        },
+        {
+            "word": "bloc",
+            "attempts": 10
         }
     ]
 }
