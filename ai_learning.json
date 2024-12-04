@@ -1272,6 +1272,10 @@
         {
             "word": "smore",
             "attempts": 7
+        },
+        {
+            "word": "unmask",
+            "attempts": 3
         }
     ]
 }
