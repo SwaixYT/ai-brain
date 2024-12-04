@@ -7076,6 +7076,10 @@
         {
             "word": "nong",
             "attempts": 0
+        },
+        {
+            "word": "choice",
+            "attempts": 5
         }
     ]
 }
