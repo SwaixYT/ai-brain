@@ -1140,6 +1140,10 @@
         {
             "word": "pollutants",
             "attempts": 6
+        },
+        {
+            "word": "milters",
+            "attempts": 4
         }
     ]
 }
