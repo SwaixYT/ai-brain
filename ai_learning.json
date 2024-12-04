@@ -4656,6 +4656,10 @@
         {
             "word": "heptane",
             "attempts": 5
+        },
+        {
+            "word": "duplication",
+            "attempts": 5
         }
     ]
 }
