@@ -4844,6 +4844,10 @@
         {
             "word": "smaragdes",
             "attempts": 3
+        },
+        {
+            "word": "materialize",
+            "attempts": 4
         }
     ]
 }
