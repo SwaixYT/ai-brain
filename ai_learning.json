@@ -2832,6 +2832,10 @@
         {
             "word": "machinelike",
             "attempts": 5
+        },
+        {
+            "word": "implies",
+            "attempts": 11
         }
     ]
 }
