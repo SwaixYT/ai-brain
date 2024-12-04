@@ -5044,6 +5044,10 @@
         {
             "word": "plurel",
             "attempts": 10
+        },
+        {
+            "word": "embryogenesis",
+            "attempts": 5
         }
     ]
 }
