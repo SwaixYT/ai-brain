@@ -5704,6 +5704,10 @@
         {
             "word": "cantonal",
             "attempts": 4
+        },
+        {
+            "word": "factories",
+            "attempts": 3
         }
     ]
 }
