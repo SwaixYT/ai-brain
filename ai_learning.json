@@ -2792,6 +2792,10 @@
         {
             "word": "walkouts",
             "attempts": 4
+        },
+        {
+            "word": "redstreak",
+            "attempts": 6
         }
     ]
 }
