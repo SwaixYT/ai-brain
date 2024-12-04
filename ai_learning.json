@@ -1480,6 +1480,10 @@
         {
             "word": "sandstone",
             "attempts": 5
+        },
+        {
+            "word": "syndets",
+            "attempts": 3
         }
     ]
 }
