@@ -624,6 +624,10 @@
         {
             "word": "ultimo",
             "attempts": 4
+        },
+        {
+            "word": "additionally",
+            "attempts": 3
         }
     ]
 }
