@@ -2944,6 +2944,10 @@
         {
             "word": "enviers",
             "attempts": 5
+        },
+        {
+            "word": "neighborhood",
+            "attempts": 3
         }
     ]
 }
