@@ -5324,6 +5324,10 @@
         {
             "word": "betweenness",
             "attempts": 3
+        },
+        {
+            "word": "impostors",
+            "attempts": 3
         }
     ]
 }
