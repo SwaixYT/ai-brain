@@ -6176,6 +6176,10 @@
         {
             "word": "trapezian",
             "attempts": 4
+        },
+        {
+            "word": "fraction",
+            "attempts": 7
         }
     ]
 }
