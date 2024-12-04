@@ -1800,6 +1800,10 @@
         {
             "word": "residential",
             "attempts": 2
+        },
+        {
+            "word": "bedmakers",
+            "attempts": 3
         }
     ]
 }
