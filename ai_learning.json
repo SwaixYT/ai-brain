@@ -72,6 +72,10 @@
         {
             "word": "choose",
             "attempts": 5
+        },
+        {
+            "word": "livability",
+            "attempts": 5
         }
     ]
 }
