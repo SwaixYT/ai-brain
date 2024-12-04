@@ -972,6 +972,10 @@
         {
             "word": "misspells",
             "attempts": 4
+        },
+        {
+            "word": "caping",
+            "attempts": 5
         }
     ]
 }
