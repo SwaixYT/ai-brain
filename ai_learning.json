@@ -5320,6 +5320,10 @@
         {
             "word": "sheeted",
             "attempts": 6
+        },
+        {
+            "word": "betweenness",
+            "attempts": 3
         }
     ]
 }
