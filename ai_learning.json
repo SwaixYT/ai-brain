@@ -3632,6 +3632,10 @@
         {
             "word": "predecline",
             "attempts": 3
+        },
+        {
+            "word": "hearthless",
+            "attempts": 3
         }
     ]
 }
