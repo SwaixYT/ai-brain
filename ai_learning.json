@@ -5328,6 +5328,10 @@
         {
             "word": "impostors",
             "attempts": 3
+        },
+        {
+            "word": "boltheader",
+            "attempts": 2
         }
     ]
 }
