@@ -960,6 +960,10 @@
         {
             "word": "retrogressions",
             "attempts": 3
+        },
+        {
+            "word": "lick",
+            "attempts": 10
         }
     ]
 }
