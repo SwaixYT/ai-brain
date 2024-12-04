@@ -1,5 +1,9 @@
 {
     "learned_points": [
-        "Initial learning point"
+        "Initial learning point",
+        {
+            "word": "choose",
+            "attempts": 5
+        }
     ]
 }
