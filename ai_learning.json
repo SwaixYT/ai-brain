@@ -1676,6 +1676,10 @@
         {
             "word": "censors",
             "attempts": 7
+        },
+        {
+            "word": "integer",
+            "attempts": 4
         }
     ]
 }
