@@ -344,6 +344,10 @@
         {
             "word": "awol",
             "attempts": 7
+        },
+        {
+            "word": "killeen",
+            "attempts": 5
         }
     ]
 }
