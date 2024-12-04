@@ -6860,6 +6860,10 @@
         {
             "word": "stales",
             "attempts": 14
+        },
+        {
+            "word": "subsampled",
+            "attempts": 3
         }
     ]
 }
