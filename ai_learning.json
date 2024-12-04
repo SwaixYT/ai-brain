@@ -1536,6 +1536,10 @@
         {
             "word": "waddles",
             "attempts": 8
+        },
+        {
+            "word": "exits",
+            "attempts": 6
         }
     ]
 }
