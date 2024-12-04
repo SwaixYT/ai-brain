@@ -364,6 +364,10 @@
         {
             "word": "tries",
             "attempts": 5
+        },
+        {
+            "word": "basaltic",
+            "attempts": 5
         }
     ]
 }
