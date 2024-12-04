@@ -76,6 +76,10 @@
         {
             "word": "livability",
             "attempts": 5
+        },
+        {
+            "word": "mcdonald",
+            "attempts": 3
         }
     ]
 }
