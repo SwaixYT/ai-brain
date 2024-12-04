@@ -5600,6 +5600,10 @@
         {
             "word": "danglin",
             "attempts": 4
+        },
+        {
+            "word": "varies",
+            "attempts": 4
         }
     ]
 }
