@@ -864,6 +864,10 @@
         {
             "word": "misstep",
             "attempts": 4
+        },
+        {
+            "word": "preshrink",
+            "attempts": 5
         }
     ]
 }
