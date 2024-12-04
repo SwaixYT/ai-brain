@@ -1224,6 +1224,10 @@
         {
             "word": "ticktick",
             "attempts": 4
+        },
+        {
+            "word": "inelasticity",
+            "attempts": 4
         }
     ]
 }
