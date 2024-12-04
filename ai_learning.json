@@ -2500,6 +2500,10 @@
         {
             "word": "renocutaneous",
             "attempts": 5
+        },
+        {
+            "word": "electret",
+            "attempts": 3
         }
     ]
 }
