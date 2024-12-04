@@ -3656,6 +3656,10 @@
         {
             "word": "taxonomies",
             "attempts": 3
+        },
+        {
+            "word": "emplane",
+            "attempts": 5
         }
     ]
 }
