@@ -3928,6 +3928,10 @@
         {
             "word": "autoactivation",
             "attempts": 3
+        },
+        {
+            "word": "wen",
+            "attempts": 12
         }
     ]
 }
