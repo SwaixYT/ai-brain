@@ -1328,6 +1328,10 @@
         {
             "word": "augen",
             "attempts": 5
+        },
+        {
+            "word": "paronymy",
+            "attempts": 5
         }
     ]
 }
