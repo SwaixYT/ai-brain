@@ -5816,6 +5816,10 @@
         {
             "word": "corbiestep",
             "attempts": 3
+        },
+        {
+            "word": "revokable",
+            "attempts": 4
         }
     ]
 }
