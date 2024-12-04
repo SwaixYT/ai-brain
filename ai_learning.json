@@ -728,6 +728,10 @@
         {
             "word": "tankless",
             "attempts": 10
+        },
+        {
+            "word": "intermediates",
+            "attempts": 3
         }
     ]
 }
