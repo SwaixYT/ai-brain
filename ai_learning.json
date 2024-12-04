@@ -5056,6 +5056,10 @@
         {
             "word": "tonogram",
             "attempts": 4
+        },
+        {
+            "word": "settings",
+            "attempts": 6
         }
     ]
 }
