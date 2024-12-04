@@ -2700,6 +2700,10 @@
         {
             "word": "unmended",
             "attempts": 5
+        },
+        {
+            "word": "malaysia",
+            "attempts": 6
         }
     ]
 }
