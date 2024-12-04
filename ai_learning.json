@@ -1540,6 +1540,10 @@
         {
             "word": "exits",
             "attempts": 6
+        },
+        {
+            "word": "enregistry",
+            "attempts": 3
         }
     ]
 }
