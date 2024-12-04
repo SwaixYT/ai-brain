@@ -1112,6 +1112,10 @@
         {
             "word": "thiamine",
             "attempts": 3
+        },
+        {
+            "word": "myalgias",
+            "attempts": 5
         }
     ]
 }
