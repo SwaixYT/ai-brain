@@ -4056,6 +4056,10 @@
         {
             "word": "stuck",
             "attempts": 4
+        },
+        {
+            "word": "apelike",
+            "attempts": 5
         }
     ]
 }
