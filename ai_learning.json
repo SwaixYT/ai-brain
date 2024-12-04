@@ -2564,6 +2564,10 @@
         {
             "word": "compd",
             "attempts": 6
+        },
+        {
+            "word": "imponderabilia",
+            "attempts": 3
         }
     ]
 }
