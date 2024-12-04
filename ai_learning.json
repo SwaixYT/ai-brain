@@ -836,6 +836,10 @@
         {
             "word": "carotin",
             "attempts": 5
+        },
+        {
+            "word": "innkeeper",
+            "attempts": 4
         }
     ]
 }
