@@ -904,6 +904,10 @@
         {
             "word": "blooded",
             "attempts": 4
+        },
+        {
+            "word": "elvis",
+            "attempts": 4
         }
     ]
 }
