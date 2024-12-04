@@ -2640,6 +2640,10 @@
         {
             "word": "sputter",
             "attempts": 4
+        },
+        {
+            "word": "pillbox",
+            "attempts": 3
         }
     ]
 }
