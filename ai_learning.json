@@ -1672,6 +1672,10 @@
         {
             "word": "patronymy",
             "attempts": 4
+        },
+        {
+            "word": "censors",
+            "attempts": 7
         }
     ]
 }
