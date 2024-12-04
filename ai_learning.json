@@ -920,6 +920,10 @@
         {
             "word": "darnedest",
             "attempts": 7
+        },
+        {
+            "word": "subschema",
+            "attempts": 4
         }
     ]
 }
