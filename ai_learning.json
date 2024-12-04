@@ -4652,6 +4652,10 @@
         {
             "word": "overdefined",
             "attempts": 5
+        },
+        {
+            "word": "heptane",
+            "attempts": 5
         }
     ]
 }
