@@ -5700,6 +5700,10 @@
         {
             "word": "insufficiencies",
             "attempts": 3
+        },
+        {
+            "word": "cantonal",
+            "attempts": 4
         }
     ]
 }
