@@ -360,6 +360,10 @@
         {
             "word": "tuth",
             "attempts": 4
+        },
+        {
+            "word": "tries",
+            "attempts": 5
         }
     ]
 }
