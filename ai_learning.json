@@ -1464,6 +1464,10 @@
         {
             "word": "reprotest",
             "attempts": 5
+        },
+        {
+            "word": "reevidenced",
+            "attempts": 3
         }
     ]
 }
