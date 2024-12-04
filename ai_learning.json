@@ -1316,6 +1316,10 @@
         {
             "word": "cautious",
             "attempts": 4
+        },
+        {
+            "word": "unsummoned",
+            "attempts": 4
         }
     ]
 }
