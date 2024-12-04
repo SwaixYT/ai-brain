@@ -3740,6 +3740,10 @@
         {
             "word": "taming",
             "attempts": 4
+        },
+        {
+            "word": "overspan",
+            "attempts": 5
         }
     ]
 }
