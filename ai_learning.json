@@ -7124,6 +7124,10 @@
         {
             "word": "chance",
             "attempts": 5
+        },
+        {
+            "word": "stellar",
+            "attempts": 1
         }
     ]
 }
