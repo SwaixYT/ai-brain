@@ -4312,6 +4312,10 @@
         {
             "word": "nonrepairable",
             "attempts": 3
+        },
+        {
+            "word": "specificate",
+            "attempts": 4
         }
     ]
 }
