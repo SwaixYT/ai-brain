@@ -732,6 +732,10 @@
         {
             "word": "intermediates",
             "attempts": 3
+        },
+        {
+            "word": "cabinetmake",
+            "attempts": 4
         }
     ]
 }
