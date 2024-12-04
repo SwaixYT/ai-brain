@@ -2644,6 +2644,10 @@
         {
             "word": "pillbox",
             "attempts": 3
+        },
+        {
+            "word": "dimiss",
+            "attempts": 3
         }
     ]
 }
