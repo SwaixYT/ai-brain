@@ -2560,6 +2560,10 @@
         {
             "word": "endear",
             "attempts": 5
+        },
+        {
+            "word": "compd",
+            "attempts": 6
         }
     ]
 }
