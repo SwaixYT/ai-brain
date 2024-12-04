@@ -1772,6 +1772,10 @@
         {
             "word": "advects",
             "attempts": 7
+        },
+        {
+            "word": "spik",
+            "attempts": 10
         }
     ]
 }
