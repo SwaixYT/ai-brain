@@ -6088,6 +6088,10 @@
         {
             "word": "fizzing",
             "attempts": 5
+        },
+        {
+            "word": "becurses",
+            "attempts": 6
         }
     ]
 }
