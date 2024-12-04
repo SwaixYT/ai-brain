@@ -1776,6 +1776,10 @@
         {
             "word": "spik",
             "attempts": 10
+        },
+        {
+            "word": "recost",
+            "attempts": 3
         }
     ]
 }
