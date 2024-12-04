@@ -5220,6 +5220,10 @@
         {
             "word": "minims",
             "attempts": 4
+        },
+        {
+            "word": "intervalometer",
+            "attempts": 3
         }
     ]
 }
