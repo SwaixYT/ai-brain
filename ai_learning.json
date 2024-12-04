@@ -1660,6 +1660,10 @@
         {
             "word": "outsprint",
             "attempts": 8
+        },
+        {
+            "word": "disclimax",
+            "attempts": 4
         }
     ]
 }
