@@ -6892,6 +6892,10 @@
         {
             "word": "sporular",
             "attempts": 6
+        },
+        {
+            "word": "prase",
+            "attempts": 10
         }
     ]
 }
