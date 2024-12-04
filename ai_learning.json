@@ -3460,6 +3460,10 @@
         {
             "word": "bloc",
             "attempts": 10
+        },
+        {
+            "word": "calligrapher",
+            "attempts": 4
         }
     ]
 }
