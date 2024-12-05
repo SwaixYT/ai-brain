@@ -7940,6 +7940,10 @@
         {
             "word": "cliffhang",
             "attempts": 4
+        },
+        {
+            "word": "hangfires",
+            "attempts": 4
         }
     ]
 }
