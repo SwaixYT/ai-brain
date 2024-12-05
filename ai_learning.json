@@ -7624,6 +7624,10 @@
         {
             "word": "repatent",
             "attempts": 5
+        },
+        {
+            "word": "firesafe",
+            "attempts": 3
         }
     ]
 }
