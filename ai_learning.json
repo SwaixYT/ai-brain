@@ -7652,6 +7652,10 @@
         {
             "word": "inscriber",
             "attempts": 6
+        },
+        {
+            "word": "noneditor",
+            "attempts": 4
         }
     ]
 }
