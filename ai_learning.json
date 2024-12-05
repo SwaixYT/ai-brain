@@ -7620,6 +7620,10 @@
         {
             "word": "explainability",
             "attempts": 2
+        },
+        {
+            "word": "repatent",
+            "attempts": 5
         }
     ]
 }
