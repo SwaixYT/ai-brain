@@ -8476,6 +8476,10 @@
         {
             "word": "happiness",
             "attempts": 5
+        },
+        {
+            "word": "laziness",
+            "attempts": 6
         }
     ]
 }
