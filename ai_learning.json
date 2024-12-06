@@ -8492,6 +8492,10 @@
         {
             "word": "california",
             "attempts": 4
+        },
+        {
+            "word": "utah",
+            "attempts": 13
         }
     ]
 }
