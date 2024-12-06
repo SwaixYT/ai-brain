@@ -8156,6 +8156,10 @@
         {
             "word": "overpressure",
             "attempts": 2
+        },
+        {
+            "word": "chiasma",
+            "attempts": 7
         }
     ]
 }
