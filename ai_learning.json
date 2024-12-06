@@ -8472,6 +8472,10 @@
         {
             "word": "carnivore",
             "attempts": 5
+        },
+        {
+            "word": "happiness",
+            "attempts": 5
         }
     ]
 }
