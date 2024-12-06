@@ -7952,6 +7952,10 @@
         {
             "word": "chess",
             "attempts": 4
+        },
+        {
+            "word": "choice",
+            "attempts": 6
         }
     ]
 }
