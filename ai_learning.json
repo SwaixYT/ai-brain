@@ -8020,6 +8020,10 @@
         {
             "word": "unforgeability",
             "attempts": 3
+        },
+        {
+            "word": "sandpiles",
+            "attempts": 6
         }
     ]
 }
