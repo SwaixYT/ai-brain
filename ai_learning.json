@@ -8484,6 +8484,10 @@
         {
             "word": "butterfly",
             "attempts": 3
+        },
+        {
+            "word": "caterpillar",
+            "attempts": 6
         }
     ]
 }
