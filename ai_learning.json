@@ -8488,6 +8488,10 @@
         {
             "word": "caterpillar",
             "attempts": 6
+        },
+        {
+            "word": "california",
+            "attempts": 4
         }
     ]
 }
