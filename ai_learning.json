@@ -8456,6 +8456,10 @@
         {
             "word": "be",
             "attempts": 12
+        },
+        {
+            "word": "that",
+            "attempts": 8
         }
     ]
 }
