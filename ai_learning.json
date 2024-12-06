@@ -7948,6 +7948,10 @@
         {
             "word": "reengagement",
             "attempts": 3
+        },
+        {
+            "word": "chess",
+            "attempts": 4
         }
     ]
 }
