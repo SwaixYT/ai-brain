@@ -8320,6 +8320,10 @@
         {
             "word": "strinkle",
             "attempts": 5
+        },
+        {
+            "word": "elevator",
+            "attempts": 6
         }
     ]
 }
