@@ -8548,6 +8548,10 @@
         {
             "word": "florins",
             "attempts": 4
+        },
+        {
+            "word": "payment",
+            "attempts": 4
         }
     ]
 }
