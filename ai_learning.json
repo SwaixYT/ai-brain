@@ -7960,6 +7960,10 @@
         {
             "word": "super",
             "attempts": 5
+        },
+        {
+            "word": "troikas",
+            "attempts": 6
         }
     ]
 }
