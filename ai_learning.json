@@ -8480,6 +8480,10 @@
         {
             "word": "laziness",
             "attempts": 6
+        },
+        {
+            "word": "butterfly",
+            "attempts": 3
         }
     ]
 }
