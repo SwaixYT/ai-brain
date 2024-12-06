@@ -7956,6 +7956,10 @@
         {
             "word": "choice",
             "attempts": 6
+        },
+        {
+            "word": "super",
+            "attempts": 5
         }
     ]
 }
