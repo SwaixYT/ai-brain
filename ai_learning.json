@@ -8324,6 +8324,10 @@
         {
             "word": "elevator",
             "attempts": 6
+        },
+        {
+            "word": "percarbonate",
+            "attempts": 3
         }
     ]
 }
