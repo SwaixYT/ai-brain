@@ -8024,6 +8024,10 @@
         {
             "word": "sandpiles",
             "attempts": 6
+        },
+        {
+            "word": "unsharpen",
+            "attempts": 4
         }
     ]
 }
