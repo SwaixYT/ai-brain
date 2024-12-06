@@ -8236,6 +8236,10 @@
         {
             "word": "keyless",
             "attempts": 4
+        },
+        {
+            "word": "squish",
+            "attempts": 6
         }
     ]
 }
