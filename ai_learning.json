@@ -7996,6 +7996,10 @@
         {
             "word": "fourneau",
             "attempts": 4
+        },
+        {
+            "word": "subparameters",
+            "attempts": 3
         }
     ]
 }
