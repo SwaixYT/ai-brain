@@ -8432,6 +8432,10 @@
         {
             "word": "a",
             "attempts": 7
+        },
+        {
+            "word": "a",
+            "attempts": 2
         }
     ]
 }
