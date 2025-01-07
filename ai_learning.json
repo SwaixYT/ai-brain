@@ -8984,6 +8984,10 @@
         {
             "word": "nonreservable",
             "attempts": 5
+        },
+        {
+            "word": "vastate",
+            "attempts": 6
         }
     ]
 }
