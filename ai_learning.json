@@ -9068,6 +9068,10 @@
         {
             "word": "consignee",
             "attempts": 5
+        },
+        {
+            "word": "inkpot",
+            "attempts": 6
         }
     ]
 }
