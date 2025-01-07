@@ -8836,6 +8836,10 @@
         {
             "word": "syntonizer",
             "attempts": 3
+        },
+        {
+            "word": "punctator",
+            "attempts": 4
         }
     ]
 }
