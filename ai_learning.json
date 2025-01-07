@@ -9036,6 +9036,10 @@
         {
             "word": "ingot",
             "attempts": 5
+        },
+        {
+            "word": "vultures",
+            "attempts": 4
         }
     ]
 }
